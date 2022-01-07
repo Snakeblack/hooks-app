@@ -15,7 +15,7 @@ export const MultipleCustomHooks = () => {
 
     return (
         <div>
-            <h1>BreakingBad Quotes</h1>
+            <h2>BreakingBad Quotes</h2>
             <hr/>
 
             {
